@@ -180,7 +180,6 @@ main { max-width: var(--wrap); margin: 0 auto; padding: 0 var(--gut); }
   .s-hero { grid-template-columns: 1fr; }
   .s-hero__widget { position: static; }
   .s-hero__bg { height: 420px; }
-  .s-hero__photo { display: none; }
   .s-incl, .s-contacts { grid-template-columns: 1fr; }
 }
 @media (max-width: 640px) {
